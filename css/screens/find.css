@@ -1,3 +1,7 @@
+#find_screen {
+  height: 100vh;
+}
+
 .find-header__ellipis__positon {
   position: relative;
 }

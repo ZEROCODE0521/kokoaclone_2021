@@ -1,3 +1,7 @@
+#more_screen {
+  height: 100vh;
+}
+
 .user-component__subtitle-circle {
   margin-left: 5px;
   color: tomato;
